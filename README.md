@@ -1,7 +1,7 @@
 # Task 3: Infrastructure as Code (IaC) using Terraform with Docker
 
 ## Objective
-Provision a Docker container running NGINX using Terraform as part of a DevOps internship task.
+Provision a Docker container running NGINX using Terraform
 
 ## Tools Used
 - Terraform
